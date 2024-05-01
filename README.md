@@ -1,7 +1,6 @@
 # Título del Proyecto 
 
-![Imagen de Portada](recursos/gatito.jpeg) 
-
+![Imagen de Portada](recursos/gatito1.jfif) 
 
 ## Descripción 
 
