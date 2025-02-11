@@ -15,7 +15,7 @@ Estoy emocionada por seguir aprendiendo y creciendo en el mundo de la programaci
 
 
 ## 📱 Contacto
-- **LinkedIn**: https://www.linkedin.com/feed/?trk=reset_password
+- **LinkedIn**: https://www.linkedin.com/in/karina-paola-rojas-jorge-812289313/
 - **Correo Electrónico**: karinacodecompetent@gmail.com
 
 ## 📚 Cursos Completados
