@@ -34,19 +34,19 @@ Desarrollo Backend 🔄
 
 📚 Cursos Completados
 
-🎓 Crash Course on Python📜 Certificado
+🎓 Crash Course on Python📜  [Certificado](https://www.coursera.org/account/accomplishments/verify/ADH4PSASHUPP)
 
-🎓 Curso básico de Machine Learning y Python📜 Certificado
+🎓 Curso básico de Machine Learning y Python📜  [Certificado](https://ibmcsr.udemy.com/certificate/UC-7631e5dc-89af-4892-85e5-3f79175832fa/)
 
 🏆 Proyectos Destacados
 
-🔹 Detección de fraudes con tarjetas de crédito📌 Utilizando Machine Learning para identificar transacciones fraudulentas.🔗 Repositorio en GitHub
+🔹 Detección de fraudes con tarjetas de crédito📌 Utilizando Machine Learning para identificar transacciones fraudulentas.🔗  [Repositorio en GitHub](https://github.com/KarinaRojasDev/Deteccion-de-fraudes-en-transacciones-con-tarjetas-de-credito-usando-modelos-de-Machine-Learning..git)
 
 📲 Contacto
 
-📩 Correo Electrónico: karinacodecompetent@gmail.com
+📩 Correo Electrónico: [karinacodecompetent@gmail.com](mailto:karinacodecompetent@gmail.com)
 
-💼 LinkedIn: Karina Rojas
+💼 LinkedIn: [Karina Rojas](https://www.linkedin.com/in/karina-paola-rojas-jorge-812289313/)
 
 🌐 Portafolio: (próximamente... 🚧)
 
