@@ -6,6 +6,7 @@ Mi enfoque está en crear soluciones eficientes y funcionales, explorando siempr
 
 🛠️ Tecnologías y Herramientas
 
+
 🔹 Lenguajes de Programación:
 
 Java ☕
@@ -18,6 +19,7 @@ HTML/CSS 🎨
 
 SQL 🗄️
 
+
 🔹 Herramientas y Control de Versiones:
 
 Git & GitHub 🖥️
@@ -27,6 +29,7 @@ VS Code 📝
 IntelliJ IDEA 🚀
 
 NetBeans 🔵
+
 
 🔹 Intereses:
 
@@ -39,6 +42,7 @@ Desarrollo Backend 🔄
 🎓 Curso básico de Machine Learning y Python📜  [Certificado](https://ibmcsr.udemy.com/certificate/UC-7631e5dc-89af-4892-85e5-3f79175832fa/)
 
 🏆 Proyectos Destacados
+
 
 🔹 Detección de fraudes con tarjetas de crédito📌 Utilizando Machine Learning para identificar transacciones fraudulentas.🔗  [Repositorio en GitHub](https://github.com/KarinaRojasDev/Deteccion-de-fraudes-en-transacciones-con-tarjetas-de-credito-usando-modelos-de-Machine-Learning..git)
 
