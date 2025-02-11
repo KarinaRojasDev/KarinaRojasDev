@@ -19,3 +19,18 @@ Mi enfoque está en crear soluciones eficientes y funcionales, explorando siempr
 
 Estoy emocionada por seguir aprendiendo y creciendo en el mundo de la programación, y siempre estoy abierta a nuevos desafíos y colaboraciones.
 
+
+## 📱 Contacto
+- **LinkedIn**: https://www.linkedin.com/feed/?trk=reset_password
+- **Correo Electrónico**: karinacodecompetent@gmail.com
+
+## 📚 Cursos Completados
+Aquí están algunos de los cursos que he completado:
+
+- Crash Course on Python https://www.coursera.org/account/accomplishments/verify/ADH4PSASHUPP
+- Curso básico de Machine Learning y Python https://ibmcsr.udemy.com/certificate/UC-7631e5dc-89af-4892-85e5-3f79175832fa/
+
+## 👨‍💻 Proyectos
+- Detección de fraudes con tarjetas de Crédito https://github.com/KarinaRojasDev/Deteccion-de-fraudes-en-transacciones-con-tarjetas-de-credito-usando-modelos-de-Machine-Learning..git
+- 
+
