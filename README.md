@@ -4,27 +4,50 @@ Soy una desarrolladora en constante aprendizaje, actualmente cursando mi segundo
 
 Mi enfoque está en crear soluciones eficientes y funcionales, explorando siempre nuevas herramientas y frameworks para mejorar mis habilidades. Me apasiona la idea de construir proyectos que tengan un impacto real y ayuden a simplificar procesos.
 
-🔧 **Tecnologías que estoy aprendiendo y usando**:
-- **Java**
-- **JavaScript**
-- **Python**
-- **HTML/CSS**
-- **Bases de datos SQL**
+🛠️ Tecnologías y Herramientas
 
-Estoy emocionada por seguir aprendiendo y creciendo en el mundo de la programación, y siempre estoy abierta a nuevos desafíos y colaboraciones.
+🔹 Lenguajes de Programación:
 
+Java ☕
 
-## 📱 Contacto
-- **LinkedIn**: https://www.linkedin.com/in/karina-paola-rojas-jorge-812289313/
-- **Correo Electrónico**: karinacodecompetent@gmail.com
+JavaScript 🟨
 
-## 📚 Cursos Completados
-Aquí están algunos de los cursos que he completado:
+Python 🐍
 
-- Crash Course on Python https://www.coursera.org/account/accomplishments/verify/ADH4PSASHUPP
-- Curso básico de Machine Learning y Python https://ibmcsr.udemy.com/certificate/UC-7631e5dc-89af-4892-85e5-3f79175832fa/
+HTML/CSS 🎨
 
-## 👨‍💻 Proyectos
-- Detección de fraudes con tarjetas de Crédito https://github.com/KarinaRojasDev/Deteccion-de-fraudes-en-transacciones-con-tarjetas-de-credito-usando-modelos-de-Machine-Learning..git
-- 
+SQL 🗄️
 
+🔹 Herramientas y Control de Versiones:
+
+Git & GitHub 🖥️
+
+VS Code 📝
+
+IntelliJ IDEA 🚀
+
+NetBeans 🔵
+
+🔹 Intereses:
+
+Desarrollo Backend 🔄
+
+📚 Cursos Completados
+
+🎓 Crash Course on Python📜 Certificado
+
+🎓 Curso básico de Machine Learning y Python📜 Certificado
+
+🏆 Proyectos Destacados
+
+🔹 Detección de fraudes con tarjetas de crédito📌 Utilizando Machine Learning para identificar transacciones fraudulentas.🔗 Repositorio en GitHub
+
+📲 Contacto
+
+📩 Correo Electrónico: karinacodecompetent@gmail.com
+
+💼 LinkedIn: Karina Rojas
+
+🌐 Portafolio: (próximamente... 🚧)
+
+¡Siempre estoy abierta a nuevos desafíos y colaboraciones! 💡🚀
