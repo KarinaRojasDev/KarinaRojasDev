@@ -1,9 +1,3 @@
-# Título del Proyecto 
-
-![Imagen de Portada](recursos/recursos/gatito1.jfif) 
-
-## Descripción 
-
 # ¡Hola, soy Karina Rojas! 👩‍💻✨
 
 Soy una desarrolladora en constante aprendizaje, actualmente cursando mi segundo año en Desarrollo de Aplicaciones Multiplataforma (DAM). A lo largo de mi carrera, he ido adquiriendo experiencia con diversas tecnologías y lenguajes de programación, y me encanta enfrentar nuevos retos. 
