@@ -19,26 +19,3 @@ Mi enfoque está en crear soluciones eficientes y funcionales, explorando siempr
 
 Estoy emocionada por seguir aprendiendo y creciendo en el mundo de la programación, y siempre estoy abierta a nuevos desafíos y colaboraciones.
 
-## Características 
-
-- Característica 1
-- Característica 2
-- Característica 3
-
-
-## Instalación 
-
-
-## Uso 
-
-Guía rápida sobre cómo utilizar el proyecto y ejemplos de código. 
-
-
-## Contribución 
-
-Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues. 
-
-
-## Licencia 
-
-Licencia bajo la cual se distribuye el proyecto.
