@@ -11,7 +11,7 @@ Soy una desarrolladora en constante aprendizaje, actualmente cursando mi segundo
 Mi enfoque está en crear soluciones eficientes y funcionales, explorando siempre nuevas herramientas y frameworks para mejorar mis habilidades. Me apasiona la idea de construir proyectos que tengan un impacto real y ayuden a simplificar procesos.
 
 🔧 **Tecnologías que estoy aprendiendo y usando**:
--**Java**
+- **Java**
 - **JavaScript**
 - **Python**
 - **HTML/CSS**
