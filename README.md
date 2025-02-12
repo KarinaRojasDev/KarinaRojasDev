@@ -2,7 +2,7 @@
 
 Soy una desarrolladora en constante aprendizaje, actualmente cursando mi segundo año en Desarrollo de Aplicaciones Multiplataforma (DAM). A lo largo de mi carrera, he ido adquiriendo experiencia con diversas tecnologías y lenguajes de programación, y me encanta enfrentar nuevos retos. 
 
-Mi enfoque está en crear soluciones eficientes y funcionales, explorando siempre nuevas herramientas y frameworks para mejorar mis habilidades. Me apasiona la idea de construir proyectos que tengan un impacto real y ayuden a simplificar procesos.
+Mi enfoque está en crear soluciones eficientes y funcionales, explorando siempre nuevas herramientas para mejorar mis habilidades. Me apasiona la idea de construir proyectos que tengan un impacto real y ayuden a simplificar procesos.
 
 ---
 🛠️ Tecnologías y Herramientas
