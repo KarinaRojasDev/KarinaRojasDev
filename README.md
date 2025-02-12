@@ -11,24 +11,24 @@ Mi enfoque está en crear soluciones eficientes y funcionales, explorando siempr
 
 Java ☕
 
+SQL 🗄️
+
 JavaScript 🟨
 
 Python 🐍
 
 HTML/CSS 🎨
 
-SQL 🗄️
-
 ---
 🔹 Herramientas y Control de Versiones:
 
-Git & GitHub 🖥️
+IntelliJ IDEA 🚀
 
 VS Code 📝
 
-IntelliJ IDEA 🚀
-
 NetBeans 🔵
+
+Git & GitHub 🖥️
 
 ---
 🔹 Intereses:
