@@ -43,13 +43,9 @@ Actualmente estoy enfocada en seguir mejorando mis habilidades en desarrollo web
 
 ## Estadísticas de GitHub
 
-[<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KarinaRojasDev&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaRojasDev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>](https://github-readme-streak-stats.herokuapp.com/?user=KarinaRojasDev&theme=tokyonight)
 
 ---
 
